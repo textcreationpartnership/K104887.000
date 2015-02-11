@@ -202,7 +202,7 @@ which I alſo make to be all the Ocean from the Eaſt Coaſt of <hi>Africa</hi> 
             </div>
             <div type="text">
                <pb n="1" facs="tcp:0799400300:9"/>
-               <milestone type="tcpmilestone" unit="year" n="1688"/>
+               <milestone type="tcpmilestone" n="1688" unit="year"/>
                <head>Mr. <hi>DAMPIER</hi>'s Voyages.</head>
                <head> VOL. II. PART I. His Voyage from <hi>Achin</hi> in <hi>Sumatra,</hi> to <hi>Tonquin,</hi> and other places in the <hi>Eaſt-Indies.</hi>
                </head>
@@ -320,7 +320,7 @@ which I alſo make to be all the Ocean from the Eaſt Coaſt of <hi>Africa</hi> 
                </div>
                <div n="2" type="chapter">
                   <pb n="18" facs="tcp:0799400300:26"/>
-                  <milestone type="tcpmilestone" unit="year" n="1688"/>
+                  <milestone type="tcpmilestone" n="1688" unit="year"/>
                   <head>CHAP. II.</head>
                   <argument>
                      <p>
@@ -465,7 +465,7 @@ which I alſo make to be all the Ocean from the Eaſt Coaſt of <hi>Africa</hi> 
                </div>
                <div n="3" type="chapter">
                   <pb n="40" facs="tcp:0799400300:48"/>
-                  <milestone type="tcpmilestone" unit="year" n="1688"/>
+                  <milestone type="tcpmilestone" n="1688" unit="year"/>
                   <head>CHAP. III.</head>
                   <argument>
                      <p>Of the Natives of <hi>Tonquin:</hi> Their Form, Diſ<g ref="char:EOLhyphen"/>poſition, Capacity, Cloaths, Buildings, Villages, Groves, Banks, Ditches, and Gardens. Of <hi>Cachao,</hi> the Capital City. Ovens to ſecure goods from Fire; and other precautions againſt it. The Streets of the City, the Kings Pa<g ref="char:EOLhyphen"/>laces, and <hi>Engliſh</hi> and <hi>Dutch</hi> Factories. An Artificial Mole above the City, to break the force of the Land-floods. Of their Wives and Common Women. Feaſts at the Graves of the Dead, and Annual Feaſts: their entertaining with <hi>Betle</hi> and <hi>Arek,</hi> &amp;c. Their Religion, Idols, Pagods, Prieſts, Offerings, and Pray<g ref="char:EOLhyphen"/>ers. Their Language and Learning. Their Mechanick Arts, Trades, Manufactures, Com<g ref="char:EOLhyphen"/>modities and Traffick.</p>
@@ -615,7 +615,7 @@ which I alſo make to be all the Ocean from the Eaſt Coaſt of <hi>Africa</hi> 
                </div>
                <div n="4" type="chapter">
                   <pb n="66" facs="tcp:0799400300:74"/>
-                  <milestone type="tcpmilestone" unit="year" n="1688"/>
+                  <milestone type="tcpmilestone" n="1688" unit="year"/>
                   <head>CHAP. IV.</head>
                   <argument>
                      <p>Of the Government of <hi>Tonquin.</hi> The 2 Kings <hi>Boua</hi> and <hi>Choua;</hi> the Revolt of the <hi>Co<g ref="char:EOLhyphen"/>chinchineſe,</hi> and Original of the preſent Conſtitution at <hi>Tonquin.</hi> Of the <hi>Boua's</hi> confinement, and the <hi>Choua</hi>'s or ruling Kings Perſon and Government; and the Treaſure, Elephants and Artillery. Their manner of making Gun-powder. Of the Soldiers, their Arms, Employment, &amp;c. Of the Naval Force, their fine Gallies and Management of them. The Watch kept in their Towns, their Juſtice and puniſhing of Debtors, and Cri<g ref="char:EOLhyphen"/>minals of all ſorts. Of the Eunuch <hi>Manda</hi>
@@ -744,7 +744,7 @@ which I alſo make to be all the Ocean from the Eaſt Coaſt of <hi>Africa</hi> 
                </div>
                <div n="5" type="chapter">
                   <pb n="86" facs="tcp:0799400300:94"/>
-                  <milestone type="tcpmilestone" unit="year" n="1688"/>
+                  <milestone type="tcpmilestone" n="1688" unit="year"/>
                   <head>CHAP. V.</head>
                   <argument>
                      <p>Some Veſſels ſent from <hi>Cachao</hi> to <hi>Tenan</hi> to fetch Rice. A Rencounter with ſome ſup<g ref="char:EOLhyphen"/>pos'd Robbers. <hi>Caſh,</hi> a ſort of Coin, and Pearl-Oyſters. The Author's ſecond Journey up to <hi>Cachao:</hi> Of the <hi>Pagoda</hi>'s and Funeral Tower and Feaſt he met by the way. the <hi>French</hi> Biſhops and Miſſionaries at <hi>Hean,</hi> their Houſe, the Author's entertainment there, and diſcourſe with one of their Prieſts. The ſtate of their Miſſion, and of Chriſtianity, in theſe Idolatrous Countries. His making of Gun-Powder. He goes on from <hi>Hean</hi> to <hi>Ca<g ref="char:EOLhyphen"/>chao,</hi> and after a ſhort ſtay there, back again to the Ships. Of the Improvements that might be made of our <hi>Engliſh</hi> Factory here. The Author's departure from <hi>Tonquin.</hi>
@@ -839,7 +839,7 @@ which I alſo make to be all the Ocean from the Eaſt Coaſt of <hi>Africa</hi> 
                </div>
                <div n="6" type="chapter">
                   <pb n="104" facs="tcp:0799400300:112"/>
-                  <milestone type="tcpmilestone" unit="year" n="1688"/>
+                  <milestone type="tcpmilestone" n="1688" unit="year"/>
                   <head>CHAP. VI.</head>
                   <argument>
                      <p>They ſet ſail out of the Bay of <hi>Tonquin.</hi> Of the R. and Country of <hi>Cambodia:</hi> Of <hi>Chi<g ref="char:EOLhyphen"/>neſe</hi> Pirates ſettled there, and the <hi>Buggaſſes</hi> a ſort of Soldiers under the King of <hi>Siam,</hi> both routed by the <hi>Engliſh</hi> in his ſervice. They paſs by <hi>Pulo Condore,</hi> are in fear of the King of <hi>Siam,</hi> and enter the Streights of <hi>Malacca</hi> by <hi>Brewſter's</hi> Streights. They arrive at <hi>Malacca.</hi> The Story of Captain <hi>Johnſon:</hi> his buying a Veſſel at <hi>Malacca,</hi> and going over to <hi>Bencalis,</hi> a Town on the oppoſite Coaſt of <hi>Sumatra,</hi> to buy Pepper. His Murder by the <hi>Malayans</hi> there, and the narrow eſpape of his Men and Veſſel. The State of Trade in thoſe parts. and the Reſtraint put upon it. Captain <hi>Johnſon</hi>'s Veſſel brought to <hi>Malacca</hi> by Mr. <hi>Wells.</hi> The Author's departure from <hi>Malacca,</hi> and arrival at <hi>Achin.</hi>
@@ -933,7 +933,7 @@ which I alſo make to be all the Ocean from the Eaſt Coaſt of <hi>Africa</hi> 
                </div>
                <div n="7" type="chapter">
                   <pb n="120" facs="tcp:0799400300:128"/>
-                  <milestone type="tcpmilestone" unit="year" n="1688"/>
+                  <milestone type="tcpmilestone" n="1688" unit="year"/>
                   <head>CHAP. VII.</head>
                   <argument>
                      <p>The Country of <hi>Achin</hi> deſcribed: its Situation and Extent. <hi>Golden Mount,</hi> and the Neigh<g ref="char:EOLhyphen"/>bouring Iſles of <hi>Way</hi> and <hi>Gomez,</hi> &amp;c. making ſeveral Channels and the Road of <hi>Achin.</hi> The Soil of the Continent; Trees and Fruits; par<g ref="char:EOLhyphen"/>ticularly the <hi>Mangaſtan</hi> and <hi>Pumple-noſe.</hi> Their Roots, Herbs, and Drugs, the Herb <hi>Ganga</hi> or <hi>Bang,</hi> and <hi>Camphire:</hi> the Pepper of <hi>Sumatra,</hi> and Gold of <hi>Achin.</hi> The Beaſts, Fowl, and Fiſh. The People, their Temper, Habits, Buildings. City of <hi>Achin,</hi> and Trader. The Husbandry, Fiſhery, Carpenters and <hi>Flying Proes.</hi> The Money-Changers, Coin and Weights. Of the Gold-Mines. The Merchants who come to <hi>Achin:</hi> and of the <hi>Chineſe</hi> Camp or Fair. The waſhing uſed at <hi>Achin.</hi> A <hi>Chi<g ref="char:EOLhyphen"/>neſe Renegado.</hi> Puniſhments for Theft and other Crimes. The Government of <hi>Achin;</hi> of the Queen, <hi>Oronkeys</hi> or Nobles; and of the Slavery of the People. The State kept by the <hi>Eaſtern</hi> Princes. A Civil War here upon the choice of a new Queen. The A and the other <hi>Engliſh</hi> in a fright, upon a ſeizure made of a <hi>Moors</hi> Ship by an <hi>Engliſh</hi> Captain. The Weather, Floods, and Heat at <hi>Achin.</hi>
@@ -1102,7 +1102,7 @@ which I alſo make to be all the Ocean from the Eaſt Coaſt of <hi>Africa</hi> 
                </div>
                <div n="8" type="chapter">
                   <pb n="150" facs="tcp:0799400300:158"/>
-                  <milestone type="tcpmilestone" unit="year" n="1688"/>
+                  <milestone type="tcpmilestone" n="1688" unit="year"/>
                   <head>CHAP. VIII.</head>
                   <argument>
                      <p>The Author prepares to go for <hi>Pegu.</hi> Among other<gap reason="illegible" resp="#APEX" extent="1 letter">
@@ -1228,7 +1228,7 @@ which I alſo make to be all the Ocean from the Eaſt Coaſt of <hi>Africa</hi> 
                </div>
                <div n="9" type="chapter">
                   <pb n="169" facs="tcp:0799400300:177"/>
-                  <milestone type="tcpmilestone" unit="year" n="1688"/>
+                  <milestone type="tcpmilestone" n="1688" unit="year"/>
                   <head>CHAP. IX.</head>
                   <argument>
                      <p>The Author departs from <hi>Malacca.</hi> They loſe a Yard, and return to refit. They ſet out again, and run on a Shole, but get off with the flood. <hi>Pulo Sambilong.</hi> They loſe their Mizen-yard, and put into <hi>Pulo Dinding.</hi> The Iſland and Fort deſcribed; The oppoſite Coaſt. <hi>Tutaneg,</hi> a ſort of Tin. The Enmity between the <hi>Dutch</hi> here, and the <hi>Malayans</hi> on the Coaſt. A Ren<g ref="char:EOLhyphen"/>counter with them. They leave <hi>Pulo Dinding</hi> and arrive at <hi>Achin.</hi> The eſcape of ſome <hi>Eng<g ref="char:EOLhyphen"/>liſh</hi> Priſoners out of <hi>Bengal.</hi> The Author ſets out again from <hi>Achin,</hi> and arrives at <hi>Fort St. George.</hi> Its pleaſant Proſpect. He goes thence to <hi>Bencouli</hi> in <hi>Sumatra.</hi> Its ſight at Sea. Point of <hi>Sillabar.</hi> The Scituation of <hi>Ben<g ref="char:EOLhyphen"/>couli,</hi> Houſes, Weather, Soil, Fruits, Animals, and Inhabitants. The Pepper Trade here and elſewhere. The firſt ſettlement of the <hi>Engliſh</hi> here. The Fort, and uſage of the Natives. The Concluſion of the <hi>Supplement.</hi>
@@ -1576,7 +1576,7 @@ which I alſo make to be all the Ocean from the Eaſt Coaſt of <hi>Africa</hi> 
                </div>
                <div n="2" type="chapter">
                   <pb n="40" facs="tcp:0799400300:237"/>
-                  <milestone type="tcpmilestone" unit="year" n="1675"/>
+                  <milestone type="tcpmilestone" n="1675" unit="year"/>
                   <head>CHAP. II.</head>
                   <argument>
                      <p>The Author's ſecond Voyage to the Bay of <hi>Cam<g ref="char:EOLhyphen"/>peachy.</hi> His arrival at the Iſle of <hi>Triſt,</hi> and ſettling with the Logwood-Cutters. A Deſcrip<g ref="char:EOLhyphen"/>tion of the Coaſt from Cape <hi>Condecedo</hi> to <hi>Triſt. Salinas</hi> or Salt Ponds. Salt gathered for the Spaniards by the Indians. <hi>Hina,</hi> a re<g ref="char:EOLhyphen"/>markable Hill. Horſe-hoof-fiſh. The <hi>Triangle</hi> Iſlands. <hi>Campeachy</hi> Town twice taken. Its chief Trade, Cotton. <hi>Champeton</hi> River; and its Logwood, a rich Commodity. <hi>Port-Royal</hi> Harbour and Iſland. Prickly-Graſs. <hi>Sapa<g ref="char:EOLhyphen"/>dillo</hi> Trees. <hi>Triſt</hi> Iſland deſcrib'd. Coco-Plum-buſhes. The Grape-Tree. Its Animals, Lizards. <hi>Laguna Termina</hi> and its ſtrong Tides. <hi>Summaſenta</hi>-River, and <hi>Chucque<g ref="char:EOLhyphen"/>bull</hi> Town. <hi>Serles</hi> his Key. Captain <hi>Serles</hi> his Adventure. The Eaſt and Weſt Lagunes, with their Branches inhabited by Logwood Cut<g ref="char:EOLhyphen"/>ters. Oaks growing there, and no where elſe within the <hi>Tropicks.</hi> The Original of the Logwood-Trade. The Rainy Seaſon, and great Floods occaſioned by Norths. The dry Seaſon. Wild Pine-plant. The Logwood-Tree. Blood-Wood, Stock-fiſh Wood and Camwood. A De<g ref="char:EOLhyphen"/>ſcription of ſome Animals, Squaſhes, large long-tail'd Monkies, Ant-bears, Sloths, Ar<g ref="char:EOLhyphen"/>madillos, Tigre-Cats, Snakes of three ſorts Calliwaſps, Huge Spiders, Great Ants and
@@ -1846,7 +1846,7 @@ which I alſo make to be all the Ocean from the Eaſt Coaſt of <hi>Africa</hi> 
                </div>
                <div n="3" type="chapter">
                   <pb n="79" facs="tcp:0799400300:276"/>
-                  <milestone type="tcpmilestone" unit="year" n="1676"/>
+                  <milestone type="tcpmilestone" n="1676" unit="year"/>
                   <head>CHAP. II.</head>
                   <argument>
                      <p>Logwood Mens way of Living. Their Hunting for Beefs in Canoas. Alligators. The Author's ſetling with Logwood-Men. He is loſt in Hunting. Captain <hi>Hall</hi> and his Mens diſaſter. The way of preſerving Bullocks Hides. Two hairy Worms growing in the Author's Leg. Dangerous Leg-worms in the <hi>Weſt-Indies.</hi> The Author ſtrangely cured of one A violent Storm. A Deſcription of <hi>Beef-Iſland:</hi> its Fruits and Animals. The <hi>Spaniards</hi> way of hockſing Cattle. Their care of preſerving their Cattle. The waſteful deſtruction made of them by the <hi>Engliſh</hi> and <hi>French</hi> Privateers. The Author's narrow Eſcape from an Alli<g ref="char:EOLhyphen"/>gator.</p>
@@ -1985,7 +1985,7 @@ which I alſo make to be all the Ocean from the Eaſt Coaſt of <hi>Africa</hi> 
                </div>
                <div n="4" type="chapter">
                   <pb n="101" facs="tcp:0799400300:298"/>
-                  <milestone type="tcpmilestone" unit="year" n="1676"/>
+                  <milestone type="tcpmilestone" n="1676" unit="year"/>
                   <head>CHAP. IV.</head>
                   <argument>
                      <p>The River <hi>St. Peter St. Paul.</hi> The Mountain-Cow and Hippopotamus. <hi>Tobaſco</hi> Iſland. <hi>Gua<g ref="char:EOLhyphen"/>vers. Tobaſco</hi> River. Manatee. <hi>Villa de Moſa. Eſtapo. Halapo. Tacatalpo de Sierra.</hi> Small Bees. Indians. Tartillos. Poſole. Cotton Garments. Early Marriages. Towns. Feſti<g ref="char:EOLhyphen"/>vals. Shape and Features.</p>
@@ -2094,7 +2094,7 @@ which I alſo make to be all the Ocean from the Eaſt Coaſt of <hi>Africa</hi> 
                </div>
                <div n="6" type="chapter">
                   <pb n="117" facs="tcp:0799400300:314"/>
-                  <milestone type="tcpmilestone" unit="year" n="1676"/>
+                  <milestone type="tcpmilestone" n="1676" unit="year"/>
                   <head>CHAP. VI.</head>
                   <argument>
                      <p>The River of <hi>Checapeque.</hi> The River of <hi>Dos Bocas.</hi> The Towns up the Country. <hi>Halpo.</hi> Their Trade. Old Hats, a good Commodity. A ſad Accident in Hunting. <hi>Tondelo</hi> River. Musketos troubleſom on this Coaſt. <hi>Guaſick<g ref="char:EOLhyphen"/>walp</hi> River. <hi>Teguantapeque</hi> River. Few Gold Mines on all this part of the Sea-Coaſt. <hi>Teguantapeque</hi> Town. <hi>Keyhooca</hi> and its Cacao-Trade. <hi>Vinellos. Alvarado</hi> River; and its Branches. Its Fort, Town and Trade. Cod Pepper. <hi>La Vera Cruz.</hi> The Fort of <hi>St. John d'Ulloa.</hi> The <hi>Barra la Venta</hi> Fleet; and their Navigation about the <hi>Weſt-India</hi> Coaſt. The Town of <hi>Tiſpo. Paunuk</hi> River and Town. Lagune and Town of <hi>Tompeque. Huniago</hi> Iſland. Its Trade in Shrimps. The Author's return to Logwood-Cutting at <hi>Triſt.</hi> Captain <hi>Gibbs</hi> kill'd there by ſome Indians he brought from <hi>New-England.</hi> The Author's ſetting out to <hi>Jamaica</hi> and return for <hi>Eng</hi>
